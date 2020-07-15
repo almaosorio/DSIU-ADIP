@@ -20,41 +20,45 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: Herramientas
     output: web, pdf
     folderitems:
-    - title: Product 1 home
+    - title: ¿Qué quieres hacer?
       url: /p1_landing_page.html
       output: web
 
-    - title: Sample 1
+    - title: Administrar mis metadatos
       url: /p1_sample1.html
       output: web, pdf
 
-    - title: Sample 2
+    - title: Asegurar la calidad de mis datos
       url: /p1_sample2.html
       output: web, pdf
 
-    - title: Sample 3
+    - title: Tener datos seguros
       url: /p1_sample3.html
       output: web, pdf
 
-  - title: Another heading
+    - title: Cuidar datos personales
+      url: /p1_sample3.html
+      output: web, pdf
+
+  - title: Cursos
     output: web, pdf
 
     folderitems:
-    - title: Sample 4
+    - title: Introducción a la gestión de datos
       url: /p1_sample4.html
       output: web, pdf
 
-    - title: Sample 5
+    - title: Introducción a los datos abiertos
       url: /p1_sample5.html
       output: web, pdf
 
-    - title: Sample 6
+    - title: Calidad, seguridad y gobernanza de datos
       url: /p1_sample6.html
       output: web, pdf
 
-    - title: Sample 7
+    - title: Arquitectura de datos
       url: /p1_sample7.html
       output: web, pdf
